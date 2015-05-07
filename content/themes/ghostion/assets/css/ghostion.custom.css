@@ -1,0 +1,49 @@
+.at_showcase_overlay{
+	background-image: url('/assets/img/pattern3.png');
+	background-repeat: repeat;
+	background-color: #00B6B6;
+}
+
+#at_top {
+	color: #fff;
+	background: #008787;
+}
+a{
+	color: #00B6B6;
+}
+.button{
+	background: #00B6B6;
+}
+.button:hover,
+.button:focus{
+	background: #008787;	
+}
+.post-template .at_post_meta,
+.post-template .at_post_meta a{
+	color: #ffffff;
+}
+.at_author{
+	background: #D2FDFD;
+}
+#at_top .at_icon_menu_item .fa{
+	font-size: 1.1em;
+}
+.at_author_image img{
+	background: #00B6B6;
+	border: 1px solid #008787;
+}
+.at_author_name h3{
+	color: #00B6B6;
+}
+.hljs {
+	word-wrap: break-word;
+}
+#at_top .at_block {
+	padding: 0;
+}
+@media only screen{
+	.column, .columns {
+		padding-left: 0;
+		padding-right: 0;
+	}
+}
